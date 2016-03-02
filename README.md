@@ -1,6 +1,7 @@
 # n99-
  a multimedia marketplace on the SAFE Network where you can upload your: music, videos, artwork, stories, along with many other content producers.
-N99 WHITE PAPER
+
+n99 WHITE PAPER
 In the current paradigm there are many gatekeepers between creatives’ and consumers of their creative outputs in both physical and online environments, which consume large percentages of the perceived value of said creative content in perpetuity, and inevitably seek to select and influence creative input according to subjective values influenced by external operators.
 
 Current available tools for sharing of creative content are flawed in their approach as they rely on advertising revenue for their income, and transfer ownership of the content from the creators to the gatekeepers. The people who provide the creative content receive no reward for consumption of their outputs and consumers of that content are bombarded with intrusive advertising in order for the service provider to receive recompense for their contribution. In addition, current service providers operate in centralized systems which are susceptible to attacks and unwarranted data mining, leaving their users exposed to leakage pf secure information and lack of privacy.
